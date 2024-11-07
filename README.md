@@ -6,4 +6,4 @@ Original code from the [sample](https://www.elecrow.com/wiki/ESP32_1.28-inch_Rou
 
 Guide of this sample in Spanish:
 
-[![Arduino IDE to PlatformIO video](https://img.youtube.com/vi/YnRaMKu4ENQ/hqdefault.jpg)](YnRaMKu4ENQ)
+[![Arduino IDE to PlatformIO video](https://img.youtube.com/vi/YnRaMKu4ENQ/hqdefault.jpg)](https://youtu.be/YnRaMKu4ENQ)
